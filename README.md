@@ -3,11 +3,11 @@
 A simple, fast, and secure web application built using HTML, CSS, JavaScript, jQuery, and JSONPowerDB for storing and managing student enrollment records.
 
 This project is designed according to Login2Explore (JSONPowerDB) assignment requirements and includes:
-### ✔ Insert (Save) student data
-### ✔ Fetch student by Roll No
-### ✔ Update student data
-### ✔ Auto-disable/enable form fields
-### ✔ Uses JPDB IML / IRL APIs
+✔ Insert (Save) student data
+✔ Fetch student by Roll No
+✔ Update student data
+✔ Auto-disable/enable form fields
+✔ Uses JPDB IML / IRL APIs
 
 ## 🚀 Project Features
 ✅ ### 1. Add New Student
@@ -58,7 +58,6 @@ Student-Enrollment/
 │
 ├── index.html        # UI Form
 ├── script.js         # All JavaScript + JPDB integration
-├── style.css         # Optional styling (if used)
 └── README.md         # Project documentation
 ```
 
@@ -85,7 +84,7 @@ git clone -- https://github.com/Arijitdey27/Student-Enrollment-using-JPDB
 
 ### Step 2: Open the project
 ```bash
-cd Student-Enrollment
+cd Student-Enrollment-using-JPDB
 ```
 
 ### Step 3: Run
@@ -129,6 +128,6 @@ Feel free to fork the repo and submit a pull request.
 
 This project is free to use for educational and learning purposes.
 
-# 🎉 Thank You!
+## 🎉 Thank You!
 
 If you like this project, don't forget to ⭐ star the repo!
