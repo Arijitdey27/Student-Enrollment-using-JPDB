@@ -3,11 +3,11 @@
 A simple, fast, and secure web application built using HTML, CSS, JavaScript, jQuery, and JSONPowerDB for storing and managing student enrollment records.
 
 This project is designed according to Login2Explore (JSONPowerDB) assignment requirements and includes:
-✔ Insert (Save) student data
-✔ Fetch student by Roll No
-✔ Update student data
-✔ Auto-disable/enable form fields
-✔ Uses JPDB IML / IRL APIs
+- ✔ Insert (Save) student data
+- ✔ Fetch student by Roll No
+- ✔ Update student data
+- ✔ Auto-disable/enable form fields
+- ✔ Uses JPDB IML / IRL APIs
 
 ## 🚀 Project Features
 ✅ ### 1. Add New Student
