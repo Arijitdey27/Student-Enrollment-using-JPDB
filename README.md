@@ -10,7 +10,7 @@ This project is designed according to Login2Explore (JSONPowerDB) assignment req
 - ✔ Uses JPDB IML / IRL APIs
 
 ## 🚀 Project Features
-✅ ### 1. Add New Student
+### ✅  1. Add New Student
 
 Saves student record using JPDB PUT API
 
