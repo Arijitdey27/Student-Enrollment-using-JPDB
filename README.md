@@ -58,6 +58,7 @@ Student-Enrollment/
 │
 ├── index.html        # UI Form
 ├── script.js         # All JavaScript + JPDB integration
+├── images
 └── README.md         # Project documentation
 ```
 
